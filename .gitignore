@@ -38,8 +38,6 @@ Thumbs.db
 /visualizations/
 /validation_manifest.json
 
-*.pdf
-*.docx
 *.log
 *.tmp
 *.bak
